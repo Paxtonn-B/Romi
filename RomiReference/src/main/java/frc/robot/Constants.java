@@ -30,6 +30,6 @@ public final class Constants {
         public static final double kWheelDiameterInch = 2.75591; // 70mm
         public static final double kWheelSpacingInch = 5.50;
 
-        public static final double kP_drive = 0.5;
+        public static final double kP_drive = 0.3;
     }
 }
